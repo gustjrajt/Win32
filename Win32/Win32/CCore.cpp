@@ -9,12 +9,17 @@ CCore::CCore()
 :m_hwnd(0)
 ,m_ptResolution{}
 ,m_hdc(0)
+,m_hBit(0)
+,m_memDC(0)
 {
 	
 }
 
 CCore::~CCore() {
 	ReleaseDC(m_hwnd, m_hdc);
+	
+	DeleteDC(m_memDC);
+	DeleteObject(m_hBit);
 }
 
 CObject g_obj;
@@ -32,6 +37,10 @@ int CCore::init(HWND _hwnd, POINT _ptResolution)
 	SetWindowPos(m_hwnd, nullptr, 100, 100, rect.right - rect.left, rect.bottom - rect.top, 0);
 
 	m_hdc = GetDC(m_hwnd);
+	m_hBit = CreateCompatibleBitmap(m_hdc, m_ptResolution.x, m_ptResolution.y);
+	m_memDC = CreateCompatibleDC(m_hdc);
+	HBITMAP hOldBit = (HBITMAP)SelectObject(m_memDC, m_hBit);
+	DeleteObject(hOldBit);
 
 	g_obj.SetPos(Vec2(float(m_ptResolution.x / 2), float(m_ptResolution.y / 2)));
 	g_obj.SetScale(Vec2( 100,100 ));
@@ -83,10 +92,21 @@ void CCore::render()
 {
 	Vec2 vPos = g_obj.GetPos();
 	Vec2 vScale = g_obj.GetScale();
-	Rectangle(m_hdc
-		, vPos.x - vScale.x / 2.f
-		, vPos.y - vScale.y / 2.f
-		, vPos.x + vScale.x / 2.f
-		, vPos.y + vScale.y / 2.f
+	
+	
+	Rectangle(m_memDC
+		, vPos.x / 2.f - vScale.x / 2.f
+		, vPos.y / 2.f - vScale.y / 2.f
+		, vPos.x / 2.f + vScale.x / 2.f
+		, vPos.y / 2.f + vScale.y / 2.f
+	);
+
+	BitBlt(m_hdc, 0, 0, m_ptResolution.x, m_ptResolution.y, m_memDC, 0, 0, SRCCOPY);
+
+	Rectangle(m_memDC
+		, -1
+		, -1
+		, m_ptResolution.x + 1
+		, m_ptResolution.y + 1
 	);
 }
