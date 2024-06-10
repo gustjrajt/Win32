@@ -1,5 +1,10 @@
 #pragma once
 #include <Windows.h>
-#include <stdio.h>
+#include <iostream>
 #include "define.h"
 #include "struct.h"
+#include <vector>
+#include <string>
+using std::string;
+using std::wstring;
+using std::vector;

@@ -1,7 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Win32\\Win32\\Win32\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CSceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CSceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CScene_Start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CScene_Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\Win32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\Win32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CKeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C086FD38-C78B-45C4-8969-9B62A6BAB697}|Win32\\Win32.vcxproj|solutionrelative:Win32\\CKeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +74,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "struct.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\struct.h",
+              "RelativeDocumentMoniker": "Win32\\struct.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\struct.h",
+              "RelativeToolTip": "Win32\\struct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T06:32:33.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CScene_Start.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.cpp",
+              "RelativeDocumentMoniker": "Win32\\CScene_Start.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.cpp",
+              "RelativeToolTip": "Win32\\CScene_Start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T06:20:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CScene_Start.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.h",
+              "RelativeDocumentMoniker": "Win32\\CScene_Start.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CScene_Start.h",
+              "RelativeToolTip": "Win32\\CScene_Start.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T06:19:52.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSceneMgr.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.cpp",
+              "RelativeDocumentMoniker": "Win32\\CSceneMgr.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.cpp",
+              "RelativeToolTip": "Win32\\CSceneMgr.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T06:15:57.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSceneMgr.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.h",
+              "RelativeDocumentMoniker": "Win32\\CSceneMgr.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CSceneMgr.h",
+              "RelativeToolTip": "Win32\\CSceneMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T06:10:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "define.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\define.h",
+              "RelativeDocumentMoniker": "Win32\\define.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\define.h",
+              "RelativeToolTip": "Win32\\define.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:59:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CScene.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CScene.cpp",
+              "RelativeDocumentMoniker": "Win32\\CScene.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CScene.cpp",
+              "RelativeToolTip": "Win32\\CScene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:58:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CScene.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CScene.h",
+              "RelativeDocumentMoniker": "Win32\\CScene.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CScene.h",
+              "RelativeToolTip": "Win32\\CScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:58:02.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CObject.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CObject.h",
+              "RelativeDocumentMoniker": "Win32\\CObject.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CObject.h",
+              "RelativeToolTip": "Win32\\CObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:56:23.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CObject.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CObject.cpp",
+              "RelativeDocumentMoniker": "Win32\\CObject.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CObject.cpp",
+              "RelativeToolTip": "Win32\\CObject.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:56:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCore.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CCore.h",
+              "RelativeDocumentMoniker": "Win32\\CCore.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CCore.h",
+              "RelativeToolTip": "Win32\\CCore.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T04:00:45.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CKeyMgr.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.cpp",
+              "RelativeDocumentMoniker": "Win32\\CKeyMgr.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.cpp",
+              "RelativeToolTip": "Win32\\CKeyMgr.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwGMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T02:58:09.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pch.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\pch.h",
+              "RelativeDocumentMoniker": "Win32\\pch.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\pch.h",
+              "RelativeToolTip": "Win32\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T02:57:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CKeyMgr.h",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.h",
+              "RelativeDocumentMoniker": "Win32\\CKeyMgr.h",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CKeyMgr.h",
+              "RelativeToolTip": "Win32\\CKeyMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T02:53:18.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCore.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\CCore.cpp",
+              "RelativeDocumentMoniker": "Win32\\CCore.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\CCore.cpp",
+              "RelativeToolTip": "Win32\\CCore.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T05:10:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Win32.cpp",
+              "DocumentMoniker": "F:\\Win32\\Win32\\Win32\\Win32\\Win32.cpp",
+              "RelativeDocumentMoniker": "Win32\\Win32.cpp",
+              "ToolTip": "F:\\Win32\\Win32\\Win32\\Win32\\Win32.cpp",
+              "RelativeToolTip": "Win32\\Win32.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T05:10:20.026Z",
+              "EditorCaption": ""
             }
           ]
         }

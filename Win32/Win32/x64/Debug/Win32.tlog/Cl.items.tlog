@@ -1,5 +1,8 @@
 F:\Win32\Win32\Win32\Win32\CCore.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CCore.obj
 F:\Win32\Win32\Win32\Win32\CKeyMgr.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CKeyMgr.obj
 F:\Win32\Win32\Win32\Win32\CObject.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CObject.obj
+F:\Win32\Win32\Win32\Win32\CScene.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CScene.obj
+F:\Win32\Win32\Win32\Win32\CSceneMgr.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CSceneMgr.obj
+F:\Win32\Win32\Win32\Win32\CScene_Start.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CScene_Start.obj
 F:\Win32\Win32\Win32\Win32\CTimeMgr.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\CTimeMgr.obj
 F:\Win32\Win32\Win32\Win32\Win32.cpp;F:\Win32\Win32\Win32\Win32\x64\Debug\Win32.obj
